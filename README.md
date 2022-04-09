@@ -1,2 +1,2 @@
-# WasteSolidDataBase
-waste solid database
+# SolidWasterDataBase
+solid waste data base
